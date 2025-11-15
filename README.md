@@ -41,44 +41,34 @@ bash
 git clone <repository-url> lara-stock-manager
 cd lara-stock-manager
 
-2. Install Laravel and PHP Dependencies
+### 2. Install Laravel and PHP Dependencies
 Use Composer to install all necessary backend packages:
+>composer install
 
-Bash
-
-composer install
 3. Configure the Environment
-Create a copy of the .env.example file and rename it to .env:
+    i)Create a copy of the .env.example file and rename it to .env:
+       >cp .env.example .env
 
-Bash
+    ii)Set your database credentials in the .env file (e.g., DB_DATABASE,DB_USERNAME, DB_PASSWORD).
 
-cp .env.example .env
-Set your database credentials in the .env file (e.g., DB_DATABASE, DB_USERNAME, DB_PASSWORD).
-
-Generate the application encryption key:
-
-Bash
-
-php artisan key:generate
+    iii)Generate the application encryption key:
+       >php artisan key:generate
+   
 4. Database Setup
 Run the migrations to create the necessary tables in your MySQL database:
-
-Bash
-
-php artisan migrate
+       >php artisan migrate
 (Note: Ensure your MySQL server is running via XAMPP/MAMP before running this command)
 
 5. Frontend Setup
 Install the required NodeJS modules and build the frontend assets:
-
-Bash
-
-npm install
-npm run dev  # or npm run build for production
+        >npm install
+        >npm run dev  # or npm run build for production
+   
 6. Run the Application
 Start the local Laravel development server:
-
-Bash
-
-php artisan serve
+        >php artisan serve
+   
 The application will now be accessible in your web browser at: http://127.0.0.1:8000
+
+Screenshots of this project:
+
