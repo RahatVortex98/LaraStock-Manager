@@ -72,3 +72,47 @@ The application will now be accessible in your web browser at: http://127.0.0.1:
 
 Screenshots of this project:
 
+ADMIN SIDE:
+Admin Front Page:
+
+<img width="1366" height="651" alt="admin_front -Page" src="https://github.com/user-attachments/assets/cd63a0b0-7a63-4d33-9acd-39e7021947b3" />
+
+Admin Create Product:
+
+<img width="1366" height="651" alt="admin_create_product" src="https://github.com/user-attachments/assets/c612d245-b936-4288-9a75-c92f295e139a" />
+
+After Adding Product:
+
+<img width="1366" height="651" alt="after adding product" src="https://github.com/user-attachments/assets/9c63b08e-4588-42cc-8336-138e2e2d7152" />
+
+Admin Edited Product:
+
+<img width="931" height="30" alt="admin_edited" src="https://github.com/user-attachments/assets/be0be5ac-221a-4d5e-ac0c-8f11bbe0aa22" />
+
+After Deleted: 
+
+<img width="1366" height="651" alt="admin after_delete" src="https://github.com/user-attachments/assets/92a08b8f-0d61-4a2e-a1e6-a41ade716833" />
+
+Admin track order:
+
+<img width="1366" height="651" alt="admin_Seeing_who_ordered" src="https://github.com/user-attachments/assets/3f998aa8-fdba-4939-9d4a-f35b383a3325" />
+
+
+Order details:
+
+<img width="1366" height="674" alt="Details about Order" src="https://github.com/user-attachments/assets/f4214a86-2d78-4d93-8f2d-76a4fe4c068c" />
+
+USER SIDE:
+
+<img width="1366" height="651" alt="user Interface" src="https://github.com/user-attachments/assets/3b8fb078-78e5-4cdd-b721-e042fdf3a553" />
+
+Viewing Single product details:
+
+<img width="1366" height="651" alt="view_single_product" src="https://github.com/user-attachments/assets/36d685a3-bc28-463f-bb92-a0627bba08d6" />
+
+Ordered Product Successfully:
+
+<img width="1366" height="651" alt="user_order_successfully" src="https://github.com/user-attachments/assets/e60ffd26-76f5-4007-9ad9-76e846ed4b48" />
+
+Order Details:
+<img width="1366" height="651" alt="order_details" src="https://github.com/user-attachments/assets/c7604de1-23a8-4767-a074-d97a6d089943" />
