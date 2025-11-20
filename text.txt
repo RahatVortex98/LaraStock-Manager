@@ -1,0 +1,12 @@
+Install Breeze as a development dependency:
+
+>composer require laravel/breeze --dev
+
+
+Scaffold Breeze (default Blade stack):
+
+>php artisan breeze:install
+
+
+Making Role table:
+>php artisan make:migration add_type_to_users --table=users
